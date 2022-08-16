@@ -1,0 +1,25 @@
+{
+  "name": "liquidjs-pluralize",
+  "version": "1.0.0",
+  "description": "Liquidjs pluralize filter",
+  "main": "src/pluralize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkaski/liquidjs-pluralize.git"
+  },
+  "keywords": [
+    "liquid",
+    "liquidjs",
+    "pluralize"
+  ],
+  "author": "mkaski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkaski/liquidjs-pluralize/issues"
+  },
+  "homepage": "https://github.com/mkaski/liquidjs-pluralize#readme",
+  "type": "module"
+}
