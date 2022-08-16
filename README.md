@@ -4,7 +4,7 @@
 
 ```
 
-import Liquid from 'liquidjs';
+import { Liquid } from 'liquidjs';
 import liquidjsPluralize from 'liquidjs-pluralize';
 
 const liquid = new Liquid();
